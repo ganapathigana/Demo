@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "wafstoreandinfo.keystore",
+            "storePassword": "9014944550",
+            "alias": "wafstoreandinfo",
+            "password": "9014944550",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "wafstoreandinfo.keystore",
+            "storePassword": "9014944550",
+            "alias": "wafstoreandinfo",
+            "password": "9014944550",
+            "keystoreType": ""
+        }
+    }
+}
